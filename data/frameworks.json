@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "creator": "Facebook",
+    "releaseYear": 2013,
+    "description": "A JavaScript library for building user interfaces, particularly single-page applications.",
+    "features": ["Component-Based", "Virtual DOM", "JSX", "Unidirectional Data Flow"],
+    "popularity": "Very High",
+    "website": "https://reactjs.org/"
+  },
+  {
+    "id": 2,
+    "name": "Angular",
+    "creator": "Google",
+    "releaseYear": 2010,
+    "description": "A platform and framework for building single-page client applications using HTML and TypeScript.",
+    "features": ["Two-way Data Binding", "Dependency Injection", "TypeScript", "Directives"],
+    "popularity": "High",
+    "website": "https://angular.io/"
+  },
+  {
+    "id": 3,
+    "name": "Vue.js",
+    "creator": "Evan You",
+    "releaseYear": 2014,
+    "description": "A progressive framework for building user interfaces, designed to be incrementally adoptable.",
+    "features": ["Reactive Data Binding", "Component System", "Virtual DOM", "Lightweight"],
+    "popularity": "High",
+    "website": "https://vuejs.org/"
+  },
+  {
+    "id": 4,
+    "name": "Svelte",
+    "creator": "Rich Harris",
+    "releaseYear": 2016,
+    "description": "A radical new approach to building user interfaces that compiles your code to tiny, framework-less vanilla JS.",
+    "features": ["No Virtual DOM", "Compile-time", "Less Code", "True Reactivity"],
+    "popularity": "Growing",
+    "website": "https://svelte.dev/"
+  },
+  {
+    "id": 5,
+    "name": "Next.js",
+    "creator": "Vercel",
+    "releaseYear": 2016,
+    "description": "A React framework that enables server-side rendering and generating static websites.",
+    "features": ["Server-side Rendering", "Static Site Generation", "API Routes", "File-based Routing"],
+    "popularity": "High",
+    "website": "https://nextjs.org/"
+  },
+  {
+    "id": 6,
+    "name": "Ember.js",
+    "creator": "Yehuda Katz",
+    "releaseYear": 2011,
+    "description": "A framework for ambitious web developers that provides a complete solution with data management and application structures.",
+    "features": ["Convention over Configuration", "Two-way Data Binding", "Ember CLI", "Ember Data"],
+    "popularity": "Moderate",
+    "website": "https://emberjs.com/"
+  }
+]
